@@ -1,0 +1,16 @@
+body {
+background-color: lightsalmon;
+}
+.topheader,
+.info,
+.reminder {
+  text-align: center;
+  font-size: 50px;
+}
+
+.img {
+  margin-left: 640px;
+  margin-top: 150px;
+  height: 400px;
+  width: 700px;
+}
